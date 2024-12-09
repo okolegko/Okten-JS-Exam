@@ -1,4 +1,4 @@
-// Доступ до піканого поля вводу та текстового, трясця його, поля для списку
+// Доступ до піканого поля вводу та текстового, трясця його, поля для списку!!!
 const input = document.getElementById("input"),
   list = document.getElementById("list"),
   message = document.createElement("div");
